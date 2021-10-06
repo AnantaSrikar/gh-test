@@ -6,7 +6,7 @@
 //const int N = ;
 
 using namespace std;
-//Multiples of 3 and 5 upto n (1000)
+//Multiples of 3 and 5 upto n (1000)dfdfdfddfdfd
 void solve()
 {
     int n = 100;
